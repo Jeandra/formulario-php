@@ -1,0 +1,2 @@
+# formulario php
+ método GET
